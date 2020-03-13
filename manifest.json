@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "version": "1.0",
     "name": "Video Annihilator",
-    "description": "Single-click video deletion",
+    "description": "Single-click video annihilation",
     "browser_action": {
         "default_icon": "icon.png",
         "default_title": "Kill videos"
